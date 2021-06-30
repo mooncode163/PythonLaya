@@ -26,8 +26,8 @@ def upload():
     # git branch -al 查看本地和远程的所有分支。
     os.system("git branch -al") 
 
-    # os.system("git push -u origin master") 
-    os.system("git push -f https://mooncode163:Qianlizhiwai1@github.com/mooncode163/PythonCreator.git")
+    os.system("git push -u origin master") 
+    # os.system("git push -f https://mooncode163:Qianlizhiwai1@github.com/mooncode163/PythonCreator.git")
 
    
  
